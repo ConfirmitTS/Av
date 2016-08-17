@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ConfirmitTS/Avatar.git"
+    "url": "git+https://github.com/ConfirmitTS/Av.git"
   },
   "author": "jnoblejas",
   "license": "",
-  "homepage": "https://github.com/ConfirmitTS/Avatar#readme",
+  "homepage": "https://github.com/ConfirmitTS/Av#readme",
   "devDependencies": {
     "docdash": "^0.4.0",
     "jsdoc": "^3.4.0"
